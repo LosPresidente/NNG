@@ -1,0 +1,10 @@
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\bin\Debug\netcoreapp2.0\NickNG.deps.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\bin\Debug\netcoreapp2.0\NickNG.runtimeconfig.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\bin\Debug\netcoreapp2.0\NickNG.runtimeconfig.dev.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\bin\Debug\netcoreapp2.0\NickNG.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\bin\Debug\netcoreapp2.0\NickNG.pdb
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\obj\Debug\netcoreapp2.0\NickNG.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\obj\Debug\netcoreapp2.0\NickNG.AssemblyInfoInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\obj\Debug\netcoreapp2.0\NickNG.AssemblyInfo.cs
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\obj\Debug\netcoreapp2.0\NickNG.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\NickNG\obj\Debug\netcoreapp2.0\NickNG.pdb
